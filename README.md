@@ -157,17 +157,3 @@ No primeiro exemplo, Python controla o fluxo do programa enquanto objetos de `ja
 
 Assim, não existe uma comunicação por arquivos, HTTP ou outro processo separado: Python e Java estão sendo utilizados dentro da mesma JVM.
 
-## Vídeo de demonstração
-
-Link do vídeo: **COLE AQUI O LINK DO LOOM OU DO VÍDEO**
-
-No vídeo, podem ser demonstrados:
-
-1. a estrutura do repositório;
-2. os imports das classes Java no `exemplo1.py`;
-3. a criação do `ArrayList` e o uso de `java.io`;
-4. a implementação de `Runnable` e a criação de `Thread` no `exemplo2.py`;
-5. a execução com Docker;
-6. a saída dos dois programas no terminal.
-
-> Observação: de acordo com a atividade, o vídeo deve ter no máximo 5 minutos e o rosto do aluno deve aparecer em tempo real durante a explicação.
